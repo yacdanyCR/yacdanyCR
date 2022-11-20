@@ -6,9 +6,11 @@
 <a href="https://www.linkedin.com/in/yacdany-arguedas-mora-22592b211/">
   <img align="left" style="margin-right:5px" alt="Javcho's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-
 <a href="jack20-21@hotmail.com">
   <img align="left" alt="Javcho's Email" width="35px" src="https://i.pinimg.com/originals/dc/1d/9e/dc1d9ea1fff1f480bef6fcf748460063.png" />
+</a>
+  <a href="jack20-21@hotmail.com">
+  <img align="left" alt="Javcho's Email" width="35px" src="https://www.codewars.com/users/Yacdany-CR/badges" />
 </a>
 </div>
 
