@@ -1,16 +1,19 @@
-### Hi there 👋
+Hello world 👋, I'm Javcho 👨‍💻
 
-<!--
-**yacdanyCR/yacdanyCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Javcho's LinkedinJavcho | TwitterJavcho's Email
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Javcho's photo
+
+I'm a full stack developer 🚀 from Perú.
+✨ Quick Facts
+👨🏽‍💻 I’m currently working on @Alegra
+🌱 I’m currently learning Blockchain
+🎿 Hobbies other than coding : Play basketball , Playing single-player videogames , Thinking about writing stories or blog 🤔🤖..
+📫 How to reach me: javcho@skrin.tech
+📝 Resume (old)
+♥ Follow me on GitHub followers and Twitter Badge and be a part of my journey... and See if I can make it or not!
+🛠️ Languages and Tools:
+JavaScript Nodejs PHP Slim Laravel MySql AWS Git GitHub
+
+HTML5 CSS3 MongoDB Flutter Socket.io Express.js Firebase Heroku
