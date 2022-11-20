@@ -14,8 +14,6 @@
 
 <br />
 <br/>
-
-  <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Javcho's photo" src="https://i.ibb.co/37RKcbY/Foto.png" />
 <p>
 I'm a Web Developer developer 🚀 from Costa Rica.
 <br/>
