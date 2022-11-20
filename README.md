@@ -7,7 +7,7 @@
   <img align="left" style="margin-right:5px" alt="Yacdany Linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="jack20-21@hotmail.com">
-  <img align="left" alt="yacdany Email" width="50px" src="https://i.pinimg.com/originals/dc/1d/9e/dc1d9ea1fff1f480bef6fcf748460063.png" />
+  <img align="left" alt="yacdany Email" width="44px" src="https://i.pinimg.com/originals/dc/1d/9e/dc1d9ea1fff1f480bef6fcf748460063.png" />
 </a>
   <a href="https://www.codewars.com/users/Yacdany-CR">
   <img align="left" alt="yacdany CodeWars" width="250px" src="https://www.codewars.com/users/Yacdany-CR/badges/large" />
