@@ -4,13 +4,13 @@
 
 <div style="display:flex; align-items:center">
 <a href="https://www.linkedin.com/in/yacdany-arguedas-mora-22592b211/">
-  <img align="left" style="margin-right:5px" alt="Yacdany Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <img align="left" style="margin-right:5px" alt="Yacdany Linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="jack20-21@hotmail.com">
-  <img align="left" alt="yacdany Email" width="35px" src="https://i.pinimg.com/originals/dc/1d/9e/dc1d9ea1fff1f480bef6fcf748460063.png" />
+  <img align="left" alt="yacdany Email" width="40px" src="https://i.pinimg.com/originals/dc/1d/9e/dc1d9ea1fff1f480bef6fcf748460063.png" />
 </a>
   <a href="https://www.codewars.com/users/Yacdany-CR">
-  <img align="left" alt="yacdany CodeWars" width="200px" src="https://www.codewars.com/users/Yacdany-CR/badges/large" />
+  <img align="left" alt="yacdany CodeWars" width="2250px" src="https://www.codewars.com/users/Yacdany-CR/badges/large" />
 </a>
 </div>
 
