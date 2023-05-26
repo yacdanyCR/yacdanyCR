@@ -31,7 +31,7 @@ I'm a Web Developer developer 🚀 from Costa Rica.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
+![TypeScript](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
