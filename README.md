@@ -24,7 +24,6 @@ I'm a Web Developer developer 🚀 from Costa Rica.
 ### ✨ Quick Facts
 
 -   📫 How to reach me: jack20-21@hotmail.com
--   📝 [Resume](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin) 
 -   ♥ Follow me on [![GitHub followers](https://img.shields.io/github/followers/yacdanyCR?label=Follow&style=social)](https://github.com/yacdanyCR/?tab=follow) 
 
 ### 🛠️ Languages and Tools:
