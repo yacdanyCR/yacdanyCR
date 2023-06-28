@@ -10,7 +10,7 @@
   <img align="left" alt="yacdany Email" width="44px" src="https://i.pinimg.com/originals/dc/1d/9e/dc1d9ea1fff1f480bef6fcf748460063.png" />
 </a>
   <a href="https://www.codewars.com/users/Yacdany-CR">
-  <img align="left" alt="yacdany CodeWars" width="250px" src="https://www.codewars.com/users/Yacdany-CR/badges/large" />
+  <img align="left" alt="yacdany CodeWars" width="250px" height="200px" src="https://www.codewars.com/users/Yacdany-CR/badges/large" />
 </a>
 </div>
 
