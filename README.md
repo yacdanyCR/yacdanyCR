@@ -17,7 +17,7 @@
 <br />
 <br/>
 <p>
-I'm a Web Developer developer 🚀 from Costa Rica.
+I'm a Web Developer  🚀 from Costa Rica.
 <br/>
 
   
